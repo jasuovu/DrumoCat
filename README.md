@@ -6,8 +6,8 @@ Key features include recording drum inputs, saving sequences, and applying trans
 
 ## How to Run:
 * REQUIRES PROCESSING 4+, NEED TO DOWNLOAD IF YOU DON'T HAVE IT
-* Download the DrumoCat code file
-* Locate DrumoCat.pde and open it
+* Download the DrumoCat code as ZIP
+* Unzip and Locate DrumoCat.pde, then open it
 * Click Run
 
 ## Keyboard mapping:
